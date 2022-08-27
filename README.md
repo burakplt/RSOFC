@@ -1,4 +1,5 @@
 # 0-D and 1-D Models of a Solid Oxide Fuel/Electrolysis Cell
+It requires the open source reaction engineering software **Cantera** https://cantera.org
 
 A Python interface provided by developers of Cantera gives all necessary functionality of the source code. However, the Python interface itself does not include any functional source code, that causes to check the documentation frequently. In order to have an intuitive and maintainable Cantera interface, Python module "gas.py" was developed, which contains all the required functionality related to Cantera.
 
